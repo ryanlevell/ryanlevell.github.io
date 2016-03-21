@@ -6,15 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 
+title: My Side Work
 email: ryanlevell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I needed a place to keep notes while working. I very often lose/gain interest
-  in random tech and would like to reflect on any old work that I would have
-  otherwise forgot about.
-baseurl: "/blog" # the subpath of your site
+  This blog is simply to track my side work for my personal benefit.
+  I very often gain/lose interest in side projects. I will now be
+  able to reflect on the old work that I would otherwise forget. The
+  posts will be informal notes rather than nicely formatted, well
+  explained generic blog posts.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ryanlevell.github.io" # the base hostname & protocol for your site
-github_username:  ryanlevell
+twitter_username:
+github_username: ryanlevell
 
 # Build settings
 markdown: kramdown
