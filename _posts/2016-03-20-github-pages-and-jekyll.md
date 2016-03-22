@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitHub Pages and Jekyll Setup"
+title:  "GitHub Pages and Jekyll Setup On A Mac"
 date:   2016-03-20 21:33:03 -0500
 categories: github-pages jekyll mac
 ---
