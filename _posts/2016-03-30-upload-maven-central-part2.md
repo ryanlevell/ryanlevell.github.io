@@ -5,7 +5,7 @@ date:   2016-03-30 22:28:03 -0500
 categories: maven oss sonatype gpg mac
 ---
 
-### [Part 1](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/21/upload-maven-central.html)
+### [Part 1](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/28/upload-maven-central.html)
 1. Met the requirements
 2. Created a Jira ticket for access to Nexus Repository Manager
 

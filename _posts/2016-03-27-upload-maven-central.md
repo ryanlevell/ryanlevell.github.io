@@ -87,7 +87,7 @@ gpg: sending key ECC54AB7 to hkp://pool.sks-keyservers.net
 ~ $: gpg2 --export-ownertrust > /backup/<enter a name>.txt
 ```
 
-\* Signing can be done automatically via a built tool such as [Maven](http://central.sonatype.org/pages/apache-maven.html), or found in [Part 2](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/30/upload-maven-central-part2.html).  
+\* Signing can be done automatically via a built tool such as [Maven](http://central.sonatype.org/pages/apache-maven.html), or found in [Part 2](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/31/upload-maven-central-part2.html).  
 \* Expired keys can be updated shown [here](http://central.sonatype.org/pages/working-with-pgp-signatures.html#dealing-with-expired-keys).
 
 #### Add metadata
@@ -133,4 +133,4 @@ The pom must have GAV, name, description, url, license, developers, and SCM tags
 ### To be continued
 I am currently waiting on my ticket to be resolved. I will continue when my ticket has been completed.
 
-#### UPDATE: [Part 2](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/30/upload-maven-central-part2.html) has been posted.
+#### UPDATE: [Part 2](http://ryanlevell.github.io/maven/oss/sonatype/gpg/mac/2016/03/31/upload-maven-central-part2.html) has been posted.
